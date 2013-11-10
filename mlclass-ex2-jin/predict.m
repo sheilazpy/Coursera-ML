@@ -18,7 +18,7 @@ p = zeros(m, 1);
 k = find(sigmoid( X * theta) >= 0.5 );
 p(k)= 1;
 
-% p(sigmoid( X * theta) >= 0.5) = 1;   % ±È½Ï·½±ã
+% p(sigmoid( X * theta) >= 0.5) = 1;   % it's a more compat way.
 
 
 
