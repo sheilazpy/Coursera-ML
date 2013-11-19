@@ -31,6 +31,8 @@ X = [ones(m, 1) X];
 %       
 
 
+[a,p] = max(sigmoid( X * all_theta'),[],2) ;    % 返回每行最大值的索引位置，也就是预测的数字
+
 
 
 
