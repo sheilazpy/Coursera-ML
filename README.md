@@ -25,3 +25,11 @@ Programming Exercise 4: Neural Networks Learning (Week5)
  3. Visualizing the hidden layer
 
 --- 2013.11.20
+
+
+Programming Exercise 5: Regularized Linear Regression and Bias v.s. Variance (Week6)
+ 1. Regularized Linear Regression
+ 2. Bias-variance
+ 3. Polynomial regression
+
+--- 2013.12.08
