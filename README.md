@@ -33,3 +33,10 @@ Programming Exercise 5: Regularized Linear Regression and Bias v.s. Variance (We
  3. Polynomial regression
 
 --- 2013.12.08
+
+
+Programming Exercise 6: Support Vector Machines (Week7)
+ 1. Support Vector Machines
+ 2. Spam Classification
+
+--- 2013.12.13
