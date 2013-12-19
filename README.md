@@ -40,3 +40,10 @@ Programming Exercise 6: Support Vector Machines (Week7)
  2. Spam Classification
 
 --- 2013.12.13
+
+
+Programming Exercise 7: K-means Clustering and Principal Component Analysis (Week8)
+ 1. K-means Clustering
+ 2. Principal Component Analysis
+
+--- 2013.12.19
