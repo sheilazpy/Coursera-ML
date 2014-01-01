@@ -2,6 +2,7 @@ Coursera-ML  -linbo.jin
 ===========
 
 Exercises of Machine Learning Course taught by Prof. Andrew Ng on Coursera.   --- 2013.11.09
+
 Videos and Slides of the course: http://pan.baidu.com/s/1qWnnRaO
 
 Programming Exercise 1: Linear Regression (Week2)
