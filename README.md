@@ -2,6 +2,7 @@ Coursera-ML  -linbo.jin
 ===========
 
 Exercises of Machine Learning Course taught by Prof. Andrew Ng on Coursera.   --- 2013.11.09
+Videos and Slides of the course: http://pan.baidu.com/s/1qWnnRaO
 
 Programming Exercise 1: Linear Regression (Week2)
  1. Simple octave function
@@ -47,3 +48,10 @@ Programming Exercise 7: K-means Clustering and Principal Component Analysis (Wee
  2. Principal Component Analysis
 
 --- 2013.12.19
+
+
+Programming Exercise 8: Anomaly Detection and Recommender (Week9)
+ 1. Anomaly detection
+ 2. Recommender Systems
+
+--- 2014.01.01
